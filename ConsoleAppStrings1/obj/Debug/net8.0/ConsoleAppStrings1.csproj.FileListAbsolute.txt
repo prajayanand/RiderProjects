@@ -1,0 +1,14 @@
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/bin/Debug/net8.0/ConsoleAppStrings1
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/bin/Debug/net8.0/ConsoleAppStrings1.deps.json
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/bin/Debug/net8.0/ConsoleAppStrings1.runtimeconfig.json
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/bin/Debug/net8.0/ConsoleAppStrings1.dll
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/bin/Debug/net8.0/ConsoleAppStrings1.pdb
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/obj/Debug/net8.0/ConsoleAppStrings1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/obj/Debug/net8.0/ConsoleAppStrings1.AssemblyInfoInputs.cache
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/obj/Debug/net8.0/ConsoleAppStrings1.AssemblyInfo.cs
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/obj/Debug/net8.0/ConsoleAppStrings1.csproj.CoreCompileInputs.cache
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/obj/Debug/net8.0/ConsoleAppStrings1.dll
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/obj/Debug/net8.0/refint/ConsoleAppStrings1.dll
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/obj/Debug/net8.0/ConsoleAppStrings1.pdb
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/obj/Debug/net8.0/ConsoleAppStrings1.genruntimeconfig.cache
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings1/obj/Debug/net8.0/ref/ConsoleAppStrings1.dll
