@@ -1,0 +1,14 @@
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/bin/Debug/net8.0/ConsoleAppArrays3
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/bin/Debug/net8.0/ConsoleAppArrays3.deps.json
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/bin/Debug/net8.0/ConsoleAppArrays3.runtimeconfig.json
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/bin/Debug/net8.0/ConsoleAppArrays3.dll
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/bin/Debug/net8.0/ConsoleAppArrays3.pdb
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/obj/Debug/net8.0/ConsoleAppArrays3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/obj/Debug/net8.0/ConsoleAppArrays3.AssemblyInfoInputs.cache
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/obj/Debug/net8.0/ConsoleAppArrays3.AssemblyInfo.cs
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/obj/Debug/net8.0/ConsoleAppArrays3.csproj.CoreCompileInputs.cache
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/obj/Debug/net8.0/ConsoleAppArrays3.dll
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/obj/Debug/net8.0/refint/ConsoleAppArrays3.dll
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/obj/Debug/net8.0/ConsoleAppArrays3.pdb
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/obj/Debug/net8.0/ConsoleAppArrays3.genruntimeconfig.cache
+/Users/prajayreddy/RiderProjects/ConsoleAppArrays/ConsoleAppArrays3/obj/Debug/net8.0/ref/ConsoleAppArrays3.dll
