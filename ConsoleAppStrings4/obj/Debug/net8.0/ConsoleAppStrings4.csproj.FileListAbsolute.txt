@@ -1,0 +1,14 @@
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/bin/Debug/net8.0/ConsoleAppStrings4
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/bin/Debug/net8.0/ConsoleAppStrings4.deps.json
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/bin/Debug/net8.0/ConsoleAppStrings4.runtimeconfig.json
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/bin/Debug/net8.0/ConsoleAppStrings4.dll
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/bin/Debug/net8.0/ConsoleAppStrings4.pdb
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/obj/Debug/net8.0/ConsoleAppStrings4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/obj/Debug/net8.0/ConsoleAppStrings4.AssemblyInfoInputs.cache
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/obj/Debug/net8.0/ConsoleAppStrings4.AssemblyInfo.cs
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/obj/Debug/net8.0/ConsoleAppStrings4.csproj.CoreCompileInputs.cache
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/obj/Debug/net8.0/ConsoleAppStrings4.dll
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/obj/Debug/net8.0/refint/ConsoleAppStrings4.dll
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/obj/Debug/net8.0/ConsoleAppStrings4.pdb
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/obj/Debug/net8.0/ConsoleAppStrings4.genruntimeconfig.cache
+/Users/prajayreddy/RiderProjects/ConsoleAppStrings/ConsoleAppStrings4/obj/Debug/net8.0/ref/ConsoleAppStrings4.dll
