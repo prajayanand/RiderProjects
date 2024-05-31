@@ -1,0 +1,14 @@
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/bin/Debug/net8.0/Exercise03
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/bin/Debug/net8.0/Exercise03.deps.json
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/bin/Debug/net8.0/Exercise03.runtimeconfig.json
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/bin/Debug/net8.0/Exercise03.dll
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/bin/Debug/net8.0/Exercise03.pdb
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/obj/Debug/net8.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/obj/Debug/net8.0/Exercise03.AssemblyInfoInputs.cache
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/obj/Debug/net8.0/Exercise03.AssemblyInfo.cs
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/obj/Debug/net8.0/Exercise03.csproj.CoreCompileInputs.cache
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/obj/Debug/net8.0/Exercise03.dll
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/obj/Debug/net8.0/refint/Exercise03.dll
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/obj/Debug/net8.0/Exercise03.pdb
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/obj/Debug/net8.0/Exercise03.genruntimeconfig.cache
+/Users/prajayreddy/RiderProjects/ConsoleApp3/Exercise03/obj/Debug/net8.0/ref/Exercise03.dll

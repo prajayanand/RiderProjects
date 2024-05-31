@@ -1,0 +1,14 @@
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/bin/Debug/net8.0/ConsoleAppNew1
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/bin/Debug/net8.0/ConsoleAppNew1.deps.json
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/bin/Debug/net8.0/ConsoleAppNew1.runtimeconfig.json
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/bin/Debug/net8.0/ConsoleAppNew1.dll
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/bin/Debug/net8.0/ConsoleAppNew1.pdb
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/obj/Debug/net8.0/ConsoleAppNew1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/obj/Debug/net8.0/ConsoleAppNew1.AssemblyInfoInputs.cache
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/obj/Debug/net8.0/ConsoleAppNew1.AssemblyInfo.cs
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/obj/Debug/net8.0/ConsoleAppNew1.csproj.CoreCompileInputs.cache
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/obj/Debug/net8.0/ConsoleAppNew1.dll
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/obj/Debug/net8.0/refint/ConsoleAppNew1.dll
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/obj/Debug/net8.0/ConsoleAppNew1.pdb
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/obj/Debug/net8.0/ConsoleAppNew1.genruntimeconfig.cache
+/Users/prajayreddy/RiderProjects/ConsoleApp3/ConsoleAppNew1/obj/Debug/net8.0/ref/ConsoleAppNew1.dll
